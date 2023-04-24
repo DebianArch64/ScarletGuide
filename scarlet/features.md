@@ -14,7 +14,7 @@ Scarlet can be installed many ways either from the [official Scarlet computer me
 
 Scarlet allows you to easily backup and restore your apps.&#x20;
 
-Tutorial: [https://twitter.com/GetScarlet/status/1649876107489935365?s=20](https://twitter.com/GetScarlet/status/1649876107489935365?s=20)
+You have two options the recommended way is ["Normal Backup/Restore"](backup-restore-normal.md), but if you have an app that it isn't working on you can do ["Stealth Backup/Restore".](backup-restore-stealth.md)
 
 ## Repo System
 

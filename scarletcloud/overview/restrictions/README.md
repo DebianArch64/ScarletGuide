@@ -10,7 +10,7 @@ This limit is imposed by iOS and makes it, so apps installed with a normal apple
 
 ## Expiration
 
-Apps will expire seven days after their registration, the expiration can be viewed in the iOS Scarlet app "Account Management" appID menu. **When the app expires they can be reinstalled**.
+Apps will expire 7 days after their registration, the expiration can be viewed in Scarlet by clicking the icon of the app you want to view the expiration for. You'll also see a refresh button to bring back the days to 7 days.
 
 
 

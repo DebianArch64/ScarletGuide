@@ -14,11 +14,9 @@ Scarlet is the most advanced tool for installing apps and the most accessible.&#
 
 The Scarlet app is most popular with installing your own apps and comes with multiple methods of install:
 
-* [Direct Install](broken-reference)
+* [Direct Install](scarlet/scarlet-direct/)
 * [Computer Method](broken-reference)
 * [IPA (Custom Cert + Developer Login)](scarlet/certificates-developer-login.md)
 * IPA (Trollstore)
 
-To save your app/game progress watch this short video on Twitter:
-
-[https://twitter.com/GetScarlet/status/1649876107489935365?s=20](https://twitter.com/GetScarlet/status/1649876107489935365?s=20)
+[To save your app/game progress click me for a tutorial.](scarlet/backup-restore-normal.md)
